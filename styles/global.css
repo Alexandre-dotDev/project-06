@@ -40,6 +40,10 @@ button {
   overflow-x: hidden;
 }
 
+/* html{
+  zoom: 0.6;
+} */
+
 h1,
 h2 {
   font-family: var(--ff-syne);
@@ -59,6 +63,6 @@ a{
   text-decoration: none;
 }
 
-@media (width >= 803m){
+@media (width >= 80em){
   
 }
